@@ -31,11 +31,11 @@
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Matthew Beckman       | mdbeckman                 |  <https://mdbeckman.github.io/>                    |  
 | Matt | mdbeckman | some website |
-| Adam Sullivan | sullivanstatistics | |
+
 <br>
 
 # Integration of RStudio with Git
 
 Check this out: <http://happygitwithr.com/index.html>
 
-
+Pushkin was here.
